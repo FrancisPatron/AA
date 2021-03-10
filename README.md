@@ -1,2 +1,2 @@
-# Scheme-algo
-Various algorithms for the scheme lang
+# Algorithm Asortment
+Various algorithms in various langs
